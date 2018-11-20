@@ -5,7 +5,7 @@ This repo contains codes of [our previous work](https://ieeexplore.ieee.org/docu
 ### Citation
 If you find this implementation helpful to your research paper, please consider citing:
 
-	@INPROCEEDINGS{Richardson_CVPR2017,
+	@INPROCEEDINGS{AoqiLi_ICME2017,
 	    Author = {A. Li and Y. Zhang and Z. Chen},
 	    Title = {Scanpath mining of eye movement trajectories for visual attention analysis},
 	    booktitle={2017 IEEE International Conference on Multimedia and Expo (ICME)},
